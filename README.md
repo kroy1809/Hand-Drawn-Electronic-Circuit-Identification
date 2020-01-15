@@ -1,2 +1,2 @@
-# Hand-Drawn-Electronic-Circuit-Identification
+# Hand-Drawn Electronic Circuit Identification
 Updated later
